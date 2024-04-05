@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![AhyngK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyngK&show_icons=true&theme=radical)
-
+![AhyngK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyngK&show_icons=true&theme=dark)
+github-readme-stats.vercel.app/api/top-langs/?username=ahyngK&langs_count=8
 <!--
 **ahyngk/ahyngK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
