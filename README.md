@@ -1,4 +1,4 @@
-### 공사중
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaywing970)](https://solved.ac/jaywing970/)
 
